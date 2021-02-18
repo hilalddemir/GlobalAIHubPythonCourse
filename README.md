@@ -2,7 +2,7 @@
 ![](img/logo.png)
 
 **Course Date:** 15.02.2021  
-**Name:** Hilal 
+**Name:** Hilal      
 **Surname:** Demir  
 **Email:** hilalddemir9@gmail.com
 
